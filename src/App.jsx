@@ -337,7 +337,7 @@ export default function App() {
             <div style={{ height:1, background:"#e5e7eb", margin:"12px 0" }} />
 
             <div style={{ fontSize:15, fontWeight:800, color:"#06c755", fontFamily:"'M PLUS Rounded 1c',sans-serif" }}>🆓 LINEで無料配布中</div>
-            <div style={{ fontSize:11, color:"#9ca3af", marginTop:2, marginBottom:12, fontFamily:"'M PLUS Rounded 1c',sans-serif" }}>お友だち追加だけ・料金一切なし</div>
+            <div style={{ fontSize:11, color:"#9ca3af", marginTop:2, marginBottom:12, fontFamily:"'M PLUS Rounded 1c',sans-serif" }}>お友だち追加だけ</div>
 
             <div style={{ background:"#f0fdf4", borderRadius:10, padding:"10px 14px" }}>
               <div style={{ fontSize:12, color:"#15803d", fontFamily:"'M PLUS Rounded 1c',sans-serif", marginBottom:6 }}>追加後にLINEへこの番号を送ってください</div>
